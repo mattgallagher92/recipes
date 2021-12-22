@@ -10,7 +10,7 @@ Serves 3.
 - 1.5 onions
 - 3 garlic cloves
 - 180g mushrooms
-- 300g courgette
+- 1 large courgette (~300g)
 - 0.5 leek
 - 1.5 peppers
 - 1.5 vegetable stock cubes
