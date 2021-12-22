@@ -22,7 +22,7 @@ Serves 2.
 - Preheat the oven to 180°C (fan).
 - Put the pasta on to boil
   - Add the broccoli and cauliflower for the last 3 minutes
-- [Make the cheese sauce](./cheese-sauce)
+- [Make the cheese sauce](./cheese-sauce.md)
 - Drain the pasta, broccoli and cauliflower
 - Spread the pasta, broccoli and cauliflower into a casserole dish
 - Pour the cheese sauce over

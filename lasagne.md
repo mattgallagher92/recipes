@@ -31,7 +31,7 @@ Serves 3.
 ## Cooking
 
 - Preheat the oven to 170°C (fan)
-- Make the cheese sauce
+- [Make the cheese sauce](./cheese-sauce.md)
 - Fry the onion, garlic, courgette, mushrooms, pepper and celery for 5 minutes
 - Add the chopped tomatoes; fry for another 5 minutes
 - Add half the vegetable mix to a casserole dish
