@@ -13,4 +13,4 @@
 - Stir in the flour
 - Add the milk
 - Heat, stirring with a whisk until thickened
-- Take off the heat and stir through the nutritional yeast
+- Take off the heat and stir in the nutritional yeast

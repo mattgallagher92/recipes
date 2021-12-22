@@ -16,7 +16,7 @@ Serves 3.
 - 1.5 vegetable stock cubes
 - 150 frozen soya beans
 - 120g frozen sweetcorn
-- 15g yeast flakes
+- 15g nutritional yeast
 - Oil
 
 ## Preparation
@@ -38,4 +38,5 @@ Serves 3.
 - Add the mushrooms, courgette, leek, peppers; simmer for 10 minutes, leaving the lid ajar; stir occasionally to avoid sticking
 - Add the soya beans; simmer for 5 more minutes, leaving the lid ajar; stir regularly to avoid sticking
 - Add the sweetcorn; simmer for 5 more minutes, leaving the lid ajar; stir frequently to avoid sticking
-- Take off the heat, stir through the yeast flakes
+- Take off the heat, stir in the nutritional yeast
+
