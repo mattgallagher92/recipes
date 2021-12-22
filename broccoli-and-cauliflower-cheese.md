@@ -24,6 +24,6 @@ Serves 2.
   - Add the broccoli and cauliflower for the last 3 minutes
 - [Make the cheese sauce](./cheese-sauce)
 - Drain the pasta, broccoli and cauliflower
-- Spread the pasta, broccoli and cauliflower into an oven dish
+- Spread the pasta, broccoli and cauliflower into a casserole dish
 - Pour the cheese sauce over
 - Cook in the oven for 25 minutes
