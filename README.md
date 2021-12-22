@@ -6,7 +6,6 @@ Follow the links below to the recipes themselves:
 
 - [Bean chilli](./bean-chilli.md)
 - [Bean stew with dumplings](./bean-stew-with-dumplings.md)
-- [Bolognese sauce](./bolognese-sauce.md)
 - [Broccoli and cauliflower cheese](./broccoli-and-cauliflower-cheese.md)
 - [Cheese sauce](./cheese-sauce.md)
 - [Chickpea curry](./chickpea-curry.md)
@@ -14,6 +13,7 @@ Follow the links below to the recipes themselves:
 - [Enchiladas](./enchiladas.md)
 - [Lasagne](./lasagne.md)
 - [Risotto](./risotto.md)
+- [Spaghetti bolognese](./spaghetti-bolognese.md)
 
 Some tips for when you're experimenting with plant-based food:
 
