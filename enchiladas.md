@@ -9,7 +9,7 @@ Serves 3.
 - 1 tsp cumin
 - 1 tsp oregano
 - 1 tsp paprika
-- 0.5 tsp garlic powder
+- ½ tsp garlic powder
 - 1.5 onions
 - 1.5 peppers
 - 180g mushrooms
@@ -38,4 +38,4 @@ Serves 3.
 - Lightly oil a baking tray
 - For each wrap: fill with one eighth of the bean mixture, roll into a cylinder and place on the tray
 - Once all wraps are on the tray, use the remaining sauce to cover the tops of the wraps
-- Bake for 20-25 mins
+- Bake for 20-25 minutes

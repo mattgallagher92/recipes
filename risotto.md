@@ -11,7 +11,7 @@ Serves 3.
 - 3 garlic cloves
 - 180g mushrooms
 - 1 large courgette (~300g)
-- 0.5 leek
+- ½ leek
 - 1.5 peppers
 - 1.5 vegetable stock cubes
 - 150 frozen soya beans
