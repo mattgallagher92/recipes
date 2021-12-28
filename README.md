@@ -17,6 +17,7 @@ Follow the links below to the recipes themselves:
 
 Some tips for when you're experimenting with plant-based food:
 
+- If you fancy a cooked breakfast, try hash browns, plant-based sausages, spinach, mushrooms and baked beans
 - You can make a great stir fry with tofu, noodles/rice and your favourite vegetables
 - Plant-based sausages go well with mash and gravy or in a pasta dish
 - Soya beans are a good source of protein
