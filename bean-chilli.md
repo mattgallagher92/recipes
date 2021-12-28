@@ -22,18 +22,24 @@ Serves 6.
 - 1 bay leaf
 - Oil
 
+Optional:
+
+- Rice
+
 ## Preparation
 
 - Cook the black turtle beans and pinto beans according to instructions (takes over an hour)
 - Chop the onion, pepper, carrots and celery
 - Crush the garlic
 - Measure out the hot chilli powder, cumin, paprika and oregano
+- Rinse rice, if applicable
 
 ## Cooking
 
 - Heat the oil in a saucepan
-- Boil the water for the stock
+- Boil the water for the stock (and rice, if applicable)
 - Add the onion, pepper, carrot and celery; fry for 5 minutes
 - Add the garlic, hot chilli powder, cumin, paprika and oregano; fry for 1 minute
+- Put the rice on to boil, if applicable
 - Add the chopped tomatoes, black turtle beans, pinto beans, stock and bay leaf; stir; simmer for 30 minutes, stirring occasionally
 - Remove the bay leaf; serve
