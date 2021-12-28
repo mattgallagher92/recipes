@@ -21,7 +21,7 @@ Serves 3.
 
 ## Preparation
 
-- Cook the beans according to instructions (takes over an hour)
+- Cook the black turtle beans and pinto beans according to instructions (takes over an hour)
 - Slice the onions and mushrooms
 - Chop the peppers
 - Mix the passata, chilli powder, cumin, oregano, paprika and garlic powder

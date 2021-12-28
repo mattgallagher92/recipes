@@ -39,6 +39,7 @@ For the dumplings:
 - Heat oil in a pan
 - Add the onions; fry for 2 minutes
 - Add the garlic; fry for 1 minute
+- Boil the water for the stock
 - Add the carrot; fry for 7 minutes
 - Add the flour; stir
 - Add purée; stir
