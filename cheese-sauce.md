@@ -1,5 +1,7 @@
 # Cheese sauce
 
+Used in other recipes.
+
 ## Ingredients
 
 - 500ml soya milk
