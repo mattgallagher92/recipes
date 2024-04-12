@@ -11,7 +11,7 @@ Serves 4.
 - 2 peppers
 - 8 chorizo shroomdogs
 - 4 garlic cloves
-- 2 tsp paprika
+- 4 tsp paprika
 - 1 tsp chilli flakes
 - 1 tsp dried oregano
 - 340 g brown basmati rice
