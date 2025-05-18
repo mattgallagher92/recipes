@@ -11,6 +11,7 @@ Follow the links below to the recipes themselves:
 - [Chickpea curry](./chickpea-curry.md)
 - [Daal](./daal.md)
 - [Enchiladas](./enchiladas.md)
+- [Goan curry](./goan-curry.md)
 - [Jambalaya](./jambalaya.md)
 - [Lasagne](./lasagne.md)
 - [Risotto](./risotto.md)
