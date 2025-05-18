@@ -14,6 +14,7 @@ Follow the links below to the recipes themselves:
 - [Goan curry](./goan-curry.md)
 - [Jambalaya](./jambalaya.md)
 - [Lasagne](./lasagne.md)
+- [Pancakes](./pancakes.md)
 - [Risotto](./risotto.md)
 - [Spaghetti bolognese](./spaghetti-bolognese.md)
 
